@@ -8,6 +8,6 @@ Este projeto tem como objetivo praticar a ferramenta git. O intuito é atualizar
 - 'git status' para averiguar o status 
 - 'git commit -m "titulo para o commit" faz o commit dos arquivos que foram adicionados na espera.
 - 'git branch -M "main" para mudar o master para main
-- 'git remote add origin https://github.com/AkamineFabio/ProjetoGit.git' para colar o link, usar o ctrl+shift+insert
+- 'git remote add origin link' para colar o link, usar o ctrl+shift+insert
 - 'git push -u origin main' para fazer a atualização no github com os commits local que foram feitos 
 - origin é um apelido e o push pode ser para main ou master
