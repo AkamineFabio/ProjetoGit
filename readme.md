@@ -11,8 +11,10 @@ Este projeto tem como objetivo praticar a ferramenta git. O intuito é atualizar
 - 'git remote add origin link' para colar o link, usar o ctrl+shift+insert
 - 'git push -u origin main' para fazer a atualização no github com os commits local que foram feitos 
 - origin é um apelido e o push pode ser para main ou master
-
 - 'git add .' adiciona todas as alterações na area de espera
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+PARA CRIAR BRANCH:
 - para criar uma branch, primeiro cria a branch no git para depois alterar o arquivo ou adicionar as mudanças
 - 'git checkout -b 'nome-da-branch'' faz com que se crie a branch e mude seu local do master ou main para essa branch
 - 'git add .' para adicionar as alterações na espera
@@ -22,4 +24,10 @@ Este projeto tem como objetivo praticar a ferramenta git. O intuito é atualizar
 - 'git checkout main' para mudar para a main novamente 
 - 'git merge nomedabranch' para juntar a branch com a main
 - 'git push origin main' para aplicar a alteração e o merge para o repositorio
-
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+PARA CLONAR REPOSITORIOS:
+- ir ao repositorio que você quer clonar -> code -> pega o link 
+- cria uma pasta no computador para alocar os arquivos que você quer clonar
+- abre a pasta, usa git bash -> usa 'git clone linkdapasta'
+- para atualizar o arquivo local caso haja alteração nos arquivos do repositorio clonado, 'git pull' na main/master do arquivo clonado
