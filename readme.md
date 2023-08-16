@@ -15,4 +15,7 @@ Este projeto tem como objetivo praticar a ferramenta git. O intuito é atualizar
 - 'git add .' adiciona todas as alterações na area de espera
 - para criar uma branch, primeiro cria a branch no git para depois alterar o arquivo ou adicionar as mudanças
 - 'git checkout -b 'nome-da-branch'' faz com que se crie a branch e mude seu local do master ou main para essa branch
+- 'git add .' para adicionar as alterações na espera
+- 'git commit -m 'nomedabranch' para confirmar as alterações e commitar 
+- 'git push origin nomedabranch' para fazer a branch no repositório do github e mostrar as alterações na branch
 
