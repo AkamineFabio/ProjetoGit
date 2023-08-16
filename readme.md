@@ -27,7 +27,15 @@ PARA CRIAR BRANCH:
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 PARA CLONAR REPOSITORIOS:
+
 - ir ao repositorio que você quer clonar -> code -> pega o link 
 - cria uma pasta no computador para alocar os arquivos que você quer clonar
 - abre a pasta, usa git bash -> usa 'git clone linkdapasta'
 - para atualizar o arquivo local caso haja alteração nos arquivos do repositorio clonado, 'git pull' na main/master do arquivo clonado
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+SOBRE PULL REQUEST: 
+- usar fork para deixar o projeto nos seus repositorios
+- criar alguma alteração, usando branch ou na main
+- fazer o request para ela ser aceita ou não
