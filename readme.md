@@ -18,4 +18,8 @@ Este projeto tem como objetivo praticar a ferramenta git. O intuito é atualizar
 - 'git add .' para adicionar as alterações na espera
 - 'git commit -m 'nomedabranch' para confirmar as alterações e commitar 
 - 'git push origin nomedabranch' para fazer a branch no repositório do github e mostrar as alterações na branch
+- depois de commitar e dar o push, agora é preciso dar merge, para que a alteração feita com a branch seja aplicada na master/main
+- 'git checkout main' para mudar para a main novamente 
+- 'git merge nomedabranch' para juntar a branch com a main
+- 'git push origin main' para aplicar a alteração e o merge para o repositorio
 
