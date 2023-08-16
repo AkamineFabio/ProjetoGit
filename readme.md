@@ -12,7 +12,7 @@ Este projeto tem como objetivo praticar a ferramenta git. O intuito é atualizar
 - 'git push -u origin main' para fazer a atualização no github com os commits local que foram feitos 
 - origin é um apelido e o push pode ser para main ou master
 
--'git add .' adiciona todas as alterações na area de espera
--para criar uma branch, primeiro cria a branch no git para depois alterar o arquivo ou adicionar as mudanças
--'git checkout -b 'nome-da-branch''
+- 'git add .' adiciona todas as alterações na area de espera
+- para criar uma branch, primeiro cria a branch no git para depois alterar o arquivo ou adicionar as mudanças
+- 'git checkout -b 'nome-da-branch''
 
